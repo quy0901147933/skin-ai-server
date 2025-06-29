@@ -1,0 +1,38 @@
+{
+  "blackheads": {
+    "display_name": "Mụn đầu đen (Blackheads)",
+    "description": "Là một dạng mụn không viêm, hình thành khi lỗ chân lông bị tắc nghẽn bởi bã nhờn và tế bào chết. Phần đầu tiếp xúc với không khí nên bị oxy hóa và có màu đen.",
+    "treatment": "Sử dụng các sản phẩm chứa Salicylic Acid (BHA), giữ da sạch sẽ, tẩy tế bào chết định kỳ. Không nên tự ý nặn.",
+    "severity_text": "Mức độ: Nhẹ"
+  },
+  "dark spot": {
+    "display_name": "Vết thâm (Dark Spot)",
+    "description": "Là các vùng da sẫm màu hình thành sau khi mụn đã lành, còn được gọi là tăng sắc tố sau viêm (PIH).",
+    "treatment": "Sử dụng các sản phẩm chứa Vitamin C, Niacinamide, Retinoids, và luôn sử dụng kem chống nắng hàng ngày để ngăn ngừa thâm sạm.",
+    "severity_text": "Mức độ: Di chứng sau mụn"
+  },
+  "nodules": {
+    "display_name": "Mụn dạng nốt (Nodules)",
+    "description": "Là một dạng mụn viêm nặng, hình thành sâu dưới da. Chúng thường cứng, lớn và gây đau đớn.",
+    "treatment": "Cần tham khảo ý kiến bác sĩ da liễu. Thường được điều trị bằng thuốc kê đơn như Isotretinoin hoặc thuốc kháng sinh.",
+    "severity_text": "Mức độ: Nặng"
+  },
+  "papules": {
+    "display_name": "Mụn sẩn (Papules)",
+    "description": "Là các nốt mụn nhỏ, màu đỏ, nổi cộm trên da. Đây là dạng mụn viêm nhưng không có mủ ở đầu.",
+    "treatment": "Sử dụng các sản phẩm chứa Benzoyl Peroxide hoặc Retinoids. Không nên nặn để tránh để lại thâm, sẹo.",
+    "severity_text": "Mức độ: Trung bình"
+  },
+  "pustules": {
+    "display_name": "Mụn mủ (Pustules)",
+    "description": "Tương tự như mụn sẩn nhưng có đầu màu trắng hoặc vàng chứa đầy mủ. Đây là một dạng mụn viêm.",
+    "treatment": "Có thể sử dụng các sản phẩm chấm mụn chứa Benzoyl Peroxide, Salicylic Acid. Tránh làm vỡ nốt mụn.",
+    "severity_text": "Mức độ: Trung bình"
+  },
+  "whiteheads": {
+    "display_name": "Mụn đầu trắng (Whiteheads)",
+    "description": "Là một dạng mụn không viêm, hình thành khi lỗ chân lông bị bít tắc hoàn toàn dưới bề mặt da, tạo thành một nốt nhỏ màu trắng.",
+    "treatment": "Sử dụng các sản phẩm chứa Salicylic Acid (BHA) hoặc Retinoids để giúp làm thông thoáng lỗ chân lông.",
+    "severity_text": "Mức độ: Nhẹ"
+  }
+}
